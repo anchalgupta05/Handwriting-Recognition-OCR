@@ -1,3 +1,5 @@
+# Source - https://www.pyimagesearch.com/2020/08/17/ocr-with-keras-tensorflow-and-deep-learning/
+
 # import the necessary packages
 from tensorflow.keras.layers import BatchNormalization
 from tensorflow.keras.layers import Conv2D
